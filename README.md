@@ -1,4 +1,4 @@
 beowulf-cluster-info
 ====================
 
-General Information about Beowulf Cumputer Clusters
+General Information about Beowulf Computer Clusters
